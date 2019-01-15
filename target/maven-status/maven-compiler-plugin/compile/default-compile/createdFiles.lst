@@ -1,0 +1,5 @@
+com\bmw\trz\persistence\MongoConnection.class
+com\bmw\trz\persistence\Controller\KeyController.class
+com\bmw\trz\persistence\Model\Key.class
+com\bmw\trz\persistence\JAXRSConfiguration.class
+com\bmw\trz\persistence\Service\KeyService.class
